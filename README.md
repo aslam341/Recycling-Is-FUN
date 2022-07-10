@@ -2,13 +2,13 @@
 A game made with Python 3 to educate and encourage recycling!
 
 ### How to run:
-1. install repo
+1. install and extract repo
 2. go to 'Recycling-Is-Fun-main/dist' folder
 3. double click 'recycle.exe' executable
 
 OR
 
-1. install repo
+1. install and extract repo
 2. install Python 3 from https://www.python.org/downloads/
 3. install VS Code
 4. double click 'recycle.py' python file
