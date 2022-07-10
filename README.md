@@ -21,3 +21,11 @@ Our hack is a game where players have to match different items to their respecti
 
 ## How to play?
 The aim of the game is to put the right item in the right recycling bin! They are divided into 5 colours - Red, Blue, Green, Yellow and Grey with labels as well. Simply drag the item to the appropriate bin and you will score a point. However, you only have 3 lives - If you fail to put the item in the right bin, your lives will be deducted! If you get 40 points you win the bragging rights to say you know all about recycling!
+
+### Credits
+Aslam (aslam.singapore@gmail.com)
+Benson Ang (bensonang36@gmail.com)
+Rayyan Ismail (rayyanis0908@gmail.com)
+Joel Ang (tzejiannn@gmail.com)
+
+Done during LifeHack 2022, a hackathon organized by NUS Computing Club.
