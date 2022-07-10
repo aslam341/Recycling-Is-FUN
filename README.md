@@ -3,7 +3,7 @@ A game made with Python 3 to educate and encourage recycling!
 
 ### How to run:
 1. install repo
-2. go to Recycling-Is-Fun-main/dist folder
+2. go to 'Recycling-Is-Fun-main/dist' folder
 3. double click 'recycle.exe' executable
 
 OR
@@ -13,7 +13,7 @@ OR
 3. install VS Code
 4. double click 'recycle.py' python file
 5. run 'pip install pygame' in terminal
-6. navigate to Recycling-Is-Fun-main folder in terminal
+6. navigate to 'Recycling-Is-Fun-main' folder in terminal
 7. run 'python recycle.py' in terminal
 
 ## Purpose of this game
