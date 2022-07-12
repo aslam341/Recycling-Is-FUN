@@ -3,7 +3,7 @@ A game made with Python 3 to educate and encourage recycling!
 
 ### How to run:
 1. install and extract repo
-2. go to 'Recycling-Is-Fun-main/dist' folder
+2. go to 'Recycling-Is-Fun-main' folder
 3. double click 'recycle.exe' executable
 
 OR
