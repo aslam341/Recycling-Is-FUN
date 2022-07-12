@@ -11,7 +11,7 @@ OR
 1. install and extract repo
 2. install Python 3 from https://www.python.org/downloads/
 3. install VS Code
-4. double click 'recycle.py' python file
+4. open 'recycle.py' python file with VS Code
 5. run 'pip install pygame' in terminal
 6. navigate to 'Recycling-Is-Fun-main' folder in terminal
 7. run 'python recycle.py' in terminal
